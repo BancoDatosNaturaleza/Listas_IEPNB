@@ -1,0 +1,229 @@
+﻿CREATE TABLE "LC_IP_CUADRICULATIPO" 
+(	"CD_CUADRICULATIPO" NUMBER(8,0) NOT NULL, 
+	"DS_CUADRICULATIPO" VARCHAR2(150) NULL,
+	CONSTRAINT "PK_LC_IP_CUADRICULATIPO" PRIMARY KEY ("CD_CUADRICULATIPO")
+)
+;
+
+	/*Insert "LC_IP_CUADRICULATIPO"*/
+	
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('1','Cuadricula_1');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('2','Cuadricula_2');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('3','Cuadricula_3');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('4','Cuadricula_4');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('5','Cuadricula_5');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('6','Cuadricula_6');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('7','Cuadricula_7');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('8','Cuadricula_8');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('9','Cuadricula_9');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('10','Cuadricula_10');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('11','Cuadricula_11');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('12','Cuadricula_12');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('13','Cuadricula_13');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('14','Cuadricula_14');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('15','Cuadricula_15');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('16','Cuadricula_16');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('17','Cuadricula_17');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('18','Cuadricula_18');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('19','Cuadricula_19');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('20','Cuadricula_20');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('21','Cuadricula_21');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('22','Cuadricula_22');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('23','Cuadricula_23');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('24','Cuadricula_24');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('25','Cuadricula_25');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('26','Cuadricula_26');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('27','Cuadricula_27');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('28','Cuadricula_28');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('29','Cuadricula_29');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('30','Cuadricula_30');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('31','Cuadricula_31');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('32','Cuadricula_32');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('33','Cuadricula_33');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('34','Cuadricula_34');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('35','Cuadricula_35');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('36','Cuadricula_36');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('37','Cuadricula_37');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('38','Cuadricula_38');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('39','Cuadricula_39');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('40','Cuadricula_40');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('41','Cuadricula_41');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('42','Cuadricula_42');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('43','Cuadricula_43');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('44','Cuadricula_44');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('45','Cuadricula_45');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('46','Cuadricula_46');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('47','Cuadricula_47');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('48','Cuadricula_48');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('49','Cuadricula_49');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('50','Cuadricula_50');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('51','Cuadricula_51');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('52','Cuadricula_52');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('53','Cuadricula_53');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('54','Cuadricula_54');
+Insert into LC_IP_CUADRICULATIPO 
+   (CD_CUADRICULATIPO,DS_CUADRICULATIPO) 
+ values 
+   ('55','Cuadricula_55');

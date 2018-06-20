@@ -1,0 +1,18 @@
+﻿CREATE TABLE "LC_LUCDEME_ACUIFEROS" 
+(	"CD_ACUIFEROS" VARCHAR2(255) NOT NULL, 
+	"DS_ACUIFEROS" VARCHAR2(255) NULL,
+	CONSTRAINT "PK_LC_LUCDEME_ACUIFEROS" PRIMARY KEY ("CD_ACUIFEROS")
+)
+;
+
+	/*Insert "LC_LUCDEME_ACUIFEROS"*/
+	
+Insert into LC_LUCDEME_ACUIFEROS 
+   (CD_ACUIFEROS,DS_ACUIFEROS) 
+ values 
+   ('0','Sin problemas de sobreexplotación');
+Insert into LC_LUCDEME_ACUIFEROS 
+   (CD_ACUIFEROS,DS_ACUIFEROS) 
+ values 
+   ('1','Existencia de sobreexplotación');
+	

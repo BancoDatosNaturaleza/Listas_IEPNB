@@ -1,0 +1,12 @@
+﻿CREATE TABLE "LC_RESEL_CARGO" 
+(	"ID_CARGO" NUMBER(2) NOT NULL, 
+	"DS_CARGO" VARCHAR2(250) NULL,
+	CONSTRAINT "PK_LC_RESEL_CARGO" PRIMARY KEY ("ID_CARGO")
+)
+;
+
+	/*Insert "LC_RESEL_CARGO"*/
+	
+Insert into LC_RESEL_CARGO 
+   (ID_CARGO,DS_CARGO) 
+ values   ('1','Investigador responsable');

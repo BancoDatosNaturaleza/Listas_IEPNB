@@ -1,0 +1,29 @@
+﻿CREATE TABLE "LC_IFN_UDGEOBALEARES" 
+(	"ID_UDGEOBAL" NUMBER (1) NOT NULL, 
+	"NB_UDGEOBAL" VARCHAR2(15) NULL,
+	CONSTRAINT "PK_LC_IFN_UDGEOBALEARES" PRIMARY KEY ("ID_UDGEOBAL")
+)
+;
+
+	/*Insert "LC_IFN_UDGEOBALEARES"*/
+	
+Insert into LC_IFN_UDGEOBALEARES 
+   (ID_UDGEOBAL,NB_UDGEOBAL) 
+ values 
+   ('1','Mallorca');
+Insert into LC_IFN_UDGEOBALEARES 
+   (ID_UDGEOBAL,NB_UDGEOBAL) 
+ values 
+   ('2','Menorca');
+Insert into LC_IFN_UDGEOBALEARES 
+   (ID_UDGEOBAL,NB_UDGEOBAL) 
+ values 
+   ('3','Ibiza');
+Insert into LC_IFN_UDGEOBALEARES 
+   (ID_UDGEOBAL,NB_UDGEOBAL) 
+ values 
+   ('4','Formentera');
+Insert into LC_IFN_UDGEOBALEARES 
+   (ID_UDGEOBAL,NB_UDGEOBAL) 
+ values 
+   ('5','Cabrera');
