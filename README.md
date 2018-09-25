@@ -1,6 +1,6 @@
 # Listas_IEPNB
 
-En el archivo comprimido "BaseDatos_Access" encontramos una base de datos para las Listas Patrón ultilizadas para el IEPNB
+En el archivo comprimido "BaseDatos_Access" encontramos una base de datos para las Listas Patrón utilizadas para el IEPNB
 y otra con las listas controladas comunes e individuales de los componentes del IEPNB.
 
 Dentro de "Sentencias_SQL" encontramos la carpeta "Sentencias_ListasCOMU" donde se almacenan las sentencias 
